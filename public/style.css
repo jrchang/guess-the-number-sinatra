@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css?family=Denk+One|Reem+Kufi" rel="stylesheet">);
+
+html {
+  height: 100%;
+}
+h1 {
+  font-family: 'Denk One', sans-serif;
+}
+
+body {
+  height: 100%;
+  background-image: url("img/light-bg2.png");
+  text-align: center;
+}
+
+.title {
+  font-size: 5em;
+}
+
+.btn {
+  color: white;
+  background-color: purple;
+  text-decoration: none;
+  padding: 1em 2em 0.5em 0.5em;
+  margin-bottom: 1.5em;
+  display: inline-block;
+  text-align: center;
+}
+
+.guess {
+  font-size: 2em;
+  display: block;
+  margin: 0 auto 1em;
+}
+
+.trophy {
+  height: 40vmin;
+}
